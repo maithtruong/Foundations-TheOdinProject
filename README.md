@@ -1,0 +1,1 @@
+This folder shows my code and notes for The Odin Project.
